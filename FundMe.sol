@@ -1,3 +1,5 @@
+//Get funds from users, withdraw funds, and set a minimum funding amount in USD
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.8;
 
